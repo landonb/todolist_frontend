@@ -9,3 +9,7 @@ stats.json
 npm-debug.log
 .idea
 .todos.json
+
+# (lb): Docs say to commit the package-lock. 'tevs.
+package-lock.json
+
